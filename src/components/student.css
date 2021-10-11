@@ -1,0 +1,78 @@
+.left {
+  width: 60%;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: left;
+}
+
+.right {
+  width: 40%;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: right;
+}
+
+h2.studentName {
+  margin: 0px;
+  padding: 0px;
+}
+
+p.universityName {
+  padding: 0px;
+  margin: 0px;
+}
+
+.score {
+  font-size: 30px;
+  font-weight: bold;
+  color: green;
+}
+.Student {
+  width: 700px;
+  margin: 0 auto;
+  display: block;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.divider {
+  margin: 0 auto;
+  background: red;
+  border-radius: 10px;
+}
+
+h2.Name {
+  margin-bottom: 0px;
+  float: left;
+  width: 50%;
+  font-size: 20px;
+  font-weight: normal;
+  text-align: left;
+}
+
+h2.Score {
+  margin-bottom: 0px;
+  font-weight: normal;
+  width: 50%;
+  float: right;
+  font-size: 20px;
+  align-items: end;
+  text-align: right;
+}
+
+h1.leaderboardheading {
+  vertical-align: middle;
+  text-align: left;
+}
+
+button.autoscore {
+  margin: 0 auto;
+  margin-left: 5px;
+  border-radius: 10px;
+  background: red;
+}
+
+span {
+  margin-right: 5px;
+  background: green;
+  color: white;
+}
