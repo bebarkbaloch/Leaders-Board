@@ -1,2 +1,2 @@
-# Leaders-Board
+# Leaders-Board based on react
 Created with CodeSandbox
